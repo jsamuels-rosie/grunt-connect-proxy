@@ -7,7 +7,9 @@
     "name": "Drewz",
     "email": "drewz@2mod5.com"
   },
-  "contributors": ["Björn Harrtell <bjorn@wololo.org>"],
+  "contributors": [
+    "Björn Harrtell <bjorn@wololo.org>"
+  ],
   "repository": {
     "type": "git",
     "url": "git://github.com/bjornharrtell/grunt-connect-proxy2.git"
